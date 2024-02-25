@@ -43,5 +43,5 @@ Background-color:White;
 
 
 
-![Bendera |200×160](Aset/foto.png)
+![Bendera |200×160](assets/Foto.png)
 
